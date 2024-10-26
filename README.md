@@ -1,61 +1,44 @@
-🚀 TGTBBNB - Binance Trade Bot for Telegram
+🌙 Moonlit AI Bot – Your Ultimate Trading Assistant on Telegram 📈
 
-TGTBBNB is an advanced automated trading system designed to operate on the Binance cryptocurrency exchange. Utilizing technical indicators and sophisticated algorithms, it aims to optimize trade decisions in real-time. This bot supports various trading strategies tailored to diverse market conditions, integrates seamlessly with Telegram for real-time notifications, and offers both fully automated and semi-automated trading modes.
+Welcome to Moonlit AI Bot (@moonlitaibot), a comprehensive AI-driven assistant on Telegram created for crypto and stock traders who value quick insights, reliable data, and actionable analysis. Whether you’re just starting out or an experienced trader, Moonlit is here to streamline your trading experience with user-friendly commands and cutting-edge predictive technology.
 
-✨ Features
+🔥 Key Features
 
-	•	📊 Multi-Strategy Trading: Supports multiple trading strategies based on technical analysis, including moving averages, RSI, and MACD.
-	•	📲 Telegram Integration: Receive real-time notifications and control the bot through Telegram.
-	•	🔧 Error Handling: Robust error handling to manage and retry failed operations, ensuring continuous operation.
-	•	🔄 Dynamic Portfolio Rebalancing: Automatically adjusts the portfolio to maintain desired asset allocations.
-	•	📝 Logging: Detailed logging for tracking bot activity and diagnosing issues.
+📊 Real-Time Market Data
 
-📚 Prerequisites
+Stay on top of market trends with live price updates for top cryptocurrencies and stocks. Moonlit provides instant data on price movements, market cap, and trading volume, all directly within Telegram.
 
-Before you start using the Crypto Trade Bot, you will need:
+🔮 AI-Powered Predictions
 
-	•	Python 3.8 or higher
-	•	Binance account with API keys
-	•	Telegram Bot Token and Chat ID
+Using advanced algorithms, Moonlit offers AI-driven predictions for the future prices of assets. Choose custom forecast periods and let Moonlit’s analytical engine give you insights into potential price trends, helping you make well-informed trading decisions.
 
-🛠 Installation
+🔔 Price Alerts Made Simple
 
-Follow these steps to set up the Crypto Trade Bot:
+Set custom price alerts for your favorite assets, and receive a Telegram notification as soon as the target price is hit. Never miss a trading opportunity again!
 
-	1.	Clone the Repository:
-	git clone https://github.com/yourgithubusername/crypto-trade-bot.git
-	cd crypto-trade-bot
+📰 Real-Time News Updates
 
-	2.	Install Dependencies:
-	pip install -r requirements.txt
+Keep up with the latest financial and business news relevant to traders, directly within the bot. Moonlit fetches and curates news that matters, ensuring you’re always in the know.
 
-	3.	Set up Configuration:
-		•	Create a .env file in the root directory.
-		•	Add your Binance API keys, Telegram Bot Token, and Chat ID to the .env file:
+🔐 Secure Binance Integration
 
-		BINANCE_API_KEY=your_binance_api_key
-		BINANCE_API_SECRET=your_binance_api_secret
-		TELEGRAM_BOT_TOKEN=your_telegram_bot_token
-		TELEGRAM_CHAT_ID=your_telegram_chat_id
+Connect your Binance account with ease to execute live trades and manage your portfolio. View your account balance, monitor your holdings, and initiate buys or sells without ever leaving Telegram – with data and transactions secured through encrypted connections.
 
-🎮 Usage
+🚀 Getting Started with Moonlit
 
-To start the bot, run the following command in the terminal:
-	python trading_bot.py
+	1.	Find the Bot: Go to @moonlitaibot on Telegram.
+	2.	Explore the Commands: Type /start to view available options and begin your trading journey with Moonlit.
+	3.	Review the Terms: Moonlit prioritizes transparency and security. Users must accept a privacy policy and terms of use to access the bot’s full functionality, ensuring responsible usage and data protection.
 
-Upon launch, the bot will present you with a menu to select the trading mode:
+🎯 Why Choose Moonlit AI Bot?
 
-	•	🌟 AST (Automated Smart Trading): Fully automated trading based on predefined strategies.
-	•	✨ AST+ (Automated Smart Trading with ChatGPT): Integrates trading decisions advised by ChatGPT for enhanced decision-making.
-	•	🖥 SST (Semi Smart Trading): Semi-automated mode that requires user confirmation for trades.
-	•	🔍 SST+ (Semi Smart Trading with ChatGPT): Combines semi-automated trading with ChatGPT recommendations, requiring user confirmation.
+With its powerful yet intuitive interface, Moonlit allows traders to:
 
-Choose the desired mode by entering the corresponding number. The bot will proceed with trading based on your selection and provide real-time updates and alerts through Telegram.
+	•	Make data-backed trading decisions with real-time information and AI insights
+	•	Trade directly through Binance, all within Telegram
+	•	Set and receive custom price alerts
+	•	Stay updated on the latest market news tailored to your trading needs
 
-🤝 Contributing
+⚠️ Disclaimer
 
-Contributions are welcome! Please feel free to fork the repository, make your changes, and submit a pull request.
-
-📜 License
-
-Distributed under the MIT License. See LICENSE for more information.
+Moonlit AI Bot is designed for informational purposes only. While every effort is made to ensure the accuracy and timeliness of the data, trading in cryptocurrencies and stocks carries a high risk of financial loss. Moonlit does not guarantee any specific outcomes, and users are encouraged to exercise caution and consult with a financial advisor before making trading decisions.
